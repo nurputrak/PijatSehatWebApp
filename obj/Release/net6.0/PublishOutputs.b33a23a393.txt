@@ -1,0 +1,7 @@
+C:\xampp\htdocs\PijatSehat\publish\PijatSehat.exe
+C:\xampp\htdocs\PijatSehat\publish\appsettings.Development.json
+C:\xampp\htdocs\PijatSehat\publish\appsettings.json
+C:\xampp\htdocs\PijatSehat\publish\PijatSehat.dll
+C:\xampp\htdocs\PijatSehat\publish\PijatSehat.deps.json
+C:\xampp\htdocs\PijatSehat\publish\PijatSehat.runtimeconfig.json
+C:\xampp\htdocs\PijatSehat\publish\PijatSehat.pdb

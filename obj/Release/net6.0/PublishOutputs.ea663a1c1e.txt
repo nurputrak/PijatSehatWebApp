@@ -1,0 +1,12 @@
+C:\xampp\htdocs\PijatSehat\bin\Release\net6.0\publish\PijatSehat.exe
+C:\xampp\htdocs\PijatSehat\bin\Release\net6.0\publish\publish\web.config
+C:\xampp\htdocs\PijatSehat\bin\Release\net6.0\publish\appsettings.Development.json
+C:\xampp\htdocs\PijatSehat\bin\Release\net6.0\publish\appsettings.json
+C:\xampp\htdocs\PijatSehat\bin\Release\net6.0\publish\publish\appsettings.Development.json
+C:\xampp\htdocs\PijatSehat\bin\Release\net6.0\publish\publish\appsettings.json
+C:\xampp\htdocs\PijatSehat\bin\Release\net6.0\publish\publish\PijatSehat.deps.json
+C:\xampp\htdocs\PijatSehat\bin\Release\net6.0\publish\publish\PijatSehat.runtimeconfig.json
+C:\xampp\htdocs\PijatSehat\bin\Release\net6.0\publish\PijatSehat.dll
+C:\xampp\htdocs\PijatSehat\bin\Release\net6.0\publish\PijatSehat.deps.json
+C:\xampp\htdocs\PijatSehat\bin\Release\net6.0\publish\PijatSehat.runtimeconfig.json
+C:\xampp\htdocs\PijatSehat\bin\Release\net6.0\publish\PijatSehat.pdb

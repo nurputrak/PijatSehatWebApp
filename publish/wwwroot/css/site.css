@@ -1,0 +1,104 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+  background-color: rgb(255, 255, 255);
+}
+
+.navbar-brand{
+  font-weight: bold;
+  margin-left: 50px;
+}
+
+.ctitle{
+  font-weight: bold;
+  margin-bottom: 100px;
+  color: green;
+}
+
+.site-section{
+  margin-bottom: 100px;
+}
+
+.cimg{
+  width: 100%;
+}
+
+.logoimg{
+  width: 200px;
+  border: 3px solid #666;
+}
+
+.himg{
+  max-width: 100%;
+  height: auto;
+  margin-top: -20px;
+}
+
+.process {
+  text-align: center;
+  padding: 30px;
+  border: 1px solid #d9d9d9; 
+  border-radius: 30px;
+}
+
+.processhome{
+  width: 300px;
+  border: 1px solid #d9d9d9; 
+  margin-top: 70px;
+}
+
+.vertical-item{
+  margin: 0;
+  position: absolute;
+  top: 15%;
+
+}
+
+.vermid-item{
+  margin: 0;
+  position: absolute;
+  top: 15%;
+  left: 40%;
+
+}
+
+h2{
+  color: rgb(94, 170, 134);
+}
+
+h3{
+  color: rgb(1, 156, 22);
+}
+h4{
+  font-family: opne sans;
+}
+
+h3.spesial{
+  color: rgb(78, 231, 154);
+}
+
+.spesial{
+  margin-top: -15px;
+}
+
+p.service{
+  margin: 30px 40px 30px 40px;
+}
+
+
+
+
